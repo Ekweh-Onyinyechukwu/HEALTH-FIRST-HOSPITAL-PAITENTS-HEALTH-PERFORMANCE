@@ -58,6 +58,8 @@ HealthFirst Hospital, has presented a fascinating dataset to uncover valuable in
 - I also discovered the female gender are more active in physical activities than the male gender, thereby keeping them in normal weight than the male gender
 - The male gender also suffer high weight counts than the female gender which could be as a result of smoking.
 
+- 
+
 
 
 I kindly request you to view and interact with this dashboard and provide suggestions on how I can further enhance it
