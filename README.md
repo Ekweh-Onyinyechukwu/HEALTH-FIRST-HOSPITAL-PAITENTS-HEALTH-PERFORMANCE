@@ -20,11 +20,17 @@ HealthFirst Hospital, has presented a fascinating dataset to uncover valuable in
 - models
 - slicers
 - dashboard and data visualisation
+  
 
   ## ANALYSIS:
 - Total patients 70k
-- Total male gender24k
--Total female gender 46k and much more
+- Total male gender 24k
+-Total female gender 46k e.t.c
+
+
+
+
+
 
 
 ![](new4.PNG)
